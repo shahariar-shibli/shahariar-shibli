@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi;I'm+G+M+Shahariar+Shibli;Looking+for+PhD+position;Natural+Language+Processing+%7C+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi;I'm+G+M+Shahariar+Shibli;Looking+for+PhD+position;Natural+Language+Processing+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 <a href="mailto:sshibli745@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

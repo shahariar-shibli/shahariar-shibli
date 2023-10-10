@@ -4,12 +4,20 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="mailto:sshibli745@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <a href="https://www.linkedin.com/in/shahariar-shibli/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href='https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en' target="_blank">
     <img src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+
+<a href='https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en' target="_blank">
+    <img src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
 ## Github summary

@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi;I'm+G+M+Shahariar+Shibli;Looking+for+PhD+position;Natural+Language+Processing+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 <a href="https://shahariar-shibli.github.io">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Personal-website?style=for-the-badge">
 </a>  
 
 <a href="mailto:sshibli745@gmail.com">
@@ -16,7 +16,7 @@
     <img src='https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 
-<a href='https://www.researchgate.net/profile/G-Shahariar target="_blank">
+<a href='https://www.researchgate.net/profile/G-Shahariar' target="_blank">
     <img src='https://img.shields.io/badge/ReserchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 

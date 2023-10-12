@@ -37,6 +37,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Profile Views
 ![:shahariar-shibli](https://count.getloli.com/get/@:shahariar-shibli?theme=asoul)

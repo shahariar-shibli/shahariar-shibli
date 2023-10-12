@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi;I'm+G+M+Shahariar+Shibli;Looking+for+PhD+position;Natural+Language+Processing+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 <a href="https://shahariar-shibli.github.io">
-    <img src="https://img.shields.io/badge/website?style=for-the-badge&logo=homeadvisor&logoColor=white">
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 
 <a href="mailto:sshibli745@gmail.com">

@@ -33,7 +33,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
 
-<span align="center">
+<span style="align:center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 </span>
 

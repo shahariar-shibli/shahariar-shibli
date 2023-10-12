@@ -33,7 +33,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula&card_width=800)](https://git.io/streak-stats)
 
 
 ## Profile Views

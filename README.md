@@ -24,7 +24,15 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
-## Github Summary
+## Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariar-shibli&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariar-shibli&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariar-shibli&theme=vision_friendly_dark&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula)](https://git.io/streak-stats)
 
 

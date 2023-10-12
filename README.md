@@ -19,7 +19,7 @@
 </a>
 
 <a href='https://www.researchgate.net/profile/G-Shahariar' target="_blank">
-    <img src='https://img.shields.io/badge/ReserchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
+    <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
 <a href="https://shahariar-shibli.github.io/files/CV/CV-of-Shibli.pdf">

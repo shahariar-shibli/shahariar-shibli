@@ -33,6 +33,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahariar-shibli)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
 
